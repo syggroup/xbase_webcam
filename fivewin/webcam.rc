@@ -1,0 +1,40 @@
+#include <windows.h>
+
+LANGUAGE LANG_PORTUGUESE,SUBLANG_PORTUGUESE_BRAZILIAN
+
+APPLICATION_ICO ICON "d:\devel\Res\\sagi.ico"
+
+1    24     "d:\\devel\\res\\WindowsXP.Manifest"
+1004 ICON   "d:\devel\Res\\sagi.ico"
+1006 BITMAP "d:\devel\Res\\ok.bmp"
+
+VS_VERSION_INFO VERSIONINFO
+FILEVERSION 1,0,0,0
+PRODUCTVERSION 1,0,0,0
+FILEFLAGSMASK 0x0
+FILEFLAGS 0x0
+FILEOS VOS__WINDOWS32
+FILETYPE VFT_APP
+FILESUBTYPE VFT2_UNKNOWN
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "040904E4"
+    {
+      VALUE "Comments",         "Sistema Desenvolvido Pela Sygecom Informática Ltda - www.sygecom.com.br \0"
+      VALUE "CompanyName",      "Sygecom Informática Ltda - www.sygecom.com.br\0"
+      VALUE "FileDescription",  "Sistema de Captura de Imagens - WebCam)\0"
+      VALUE "FileVersion",      "1.0000\0"
+      VALUE "InternalName",     "Projeto SAGI\0"
+      VALUE "LegalCopyright",   "Sygecom Informática Ltda\0"
+      VALUE "LegalTrademarks",  "WEBCAM / SYGECOM\0"
+      VALUE "OriginalFilename", "WEBCAM.EXE\0"
+      VALUE "ProductName",      "Sistema de Captura de Imagens - WebCam)\0"
+      VALUE "ProductVersion",   "1.0000\0"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x416, 0x4B0
+  }
+}

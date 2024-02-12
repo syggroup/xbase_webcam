@@ -1,0 +1,46 @@
+CINI = 
+C_OUTPUTFOLDER = 
+DEFFILE = 
+INCLUDEFOLDERS = D:\devel\fivewin\FWH1905\include;D:\Devel\hwgui\include;
+LAUTORUN =
+LDEBUG = .F.
+LGUI = .T.
+LIBFOLDERS =
+LMT = .F.
+LPRG_CLASSICDEBUG = .F.
+LPRG_DEBUG = .F.
+LUSEDLL = .F.
+MAPFILE = 
+MYC_FLAGS = 
+MYDEFINES =
+MYLINK_FLAGS = 
+MYPRG_FLAGS = 
+MYRC_FLAGS = 
+MYSLY_FLAGS = 
+OUTPUTFOLDER = obj
+PRG_OUTPUTFOLDER =
+RC_OUTPUTFOLDER = 
+RUNARGUMENTS = 
+SLY_OUTPUTFOLDER = 
+STARTIN = 
+TARGETFOLDER = 
+
+[teste.PRG]
+MYC_FLAGS = 
+MYDEFINES = 
+MYPRG_FLAGS = 
+
+[WEBCAM.PRG]
+MYC_FLAGS = 
+MYDEFINES = 
+MYPRG_FLAGS = 
+
+[webcam.rc]
+MYDEFINES =
+MYRC_FLAGS =
+
+[D:\Devel\hwgui\lib\hwgui_xhb72.lib]
+
+[D:\Devel\xharbour_bcc7\contrib\sygecom.lib]
+
+[D:\Devel\xharbour_bcc7\lib\tip.lib]
